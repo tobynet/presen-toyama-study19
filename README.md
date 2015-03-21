@@ -1,24 +1,56 @@
-# テストジャバ
+# ドットインストールにない git の使い方
+
+by [@toby_net](https://twitter.com/toby_net)
 
 ---
 
-# アジャバ
+# スポンサー
 
-1. Introduction
-2. Deep-dive
-3. ...
+[秘密結社ジャバ組](https://github.com/arigato-java/)
 
----
-
-# ジャバダクション
-
-* あなたと
-* ジャバ
-* 今すぐ
-* ダウンロード
+![秘密結社ジャバ組]()
 
 ---
 
-# ジャバコード
+ジャバボタン 
 
-    git clone --depth 1 http://example.com/git
+[](https://github.com/arigato-java/JavaButton)
+
+---
+
+# コマンド編
+
+1. `git add -p`
+2. `git blame`
+3. `git bisect`
+4. `git clone --depth 1 $URL`
+
+---
+
+# FAQ
+
+0. 事例
+1. お手軽につかうには？
+2. ブランチの扱い
+3. SVN との checkout の違い
+
+---
+
+# 参考サイト
+
+* [ドットインストール git入門 (全22回)](http://dotinstall.com/lessons/basic_git)
+* まずはこれ ⇒ [Pro git](http://git-scm.com/book/en/v2)
+* コマンドラインで使った後にみるととてもよい ⇒ [入門Git (http://www.amazon.co.jp/dp/4798023809/)
+
+---
+
+# ご覧のスポンサー
+
+でお送りいたしました
+
+* [ジャバ組](https://github.com/arigato-java/JavaButton)
+
+* リレー小説かいてます ⇒ [Relayr](http://relayr.herokuapp.com/)
+* 有志によるジャバ小説まとめ ⇒ [ジャバ名作劇場](http://arigato-java.esy.es/shosetsu.html)
+
+
