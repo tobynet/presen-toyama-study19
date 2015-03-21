@@ -1,5 +1,3 @@
-class: middle, center
-
 # テストジャバ
 
 ---
