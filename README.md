@@ -1,6 +1,4 @@
 
-class: center, middle
-
 # テストジャバ
 
 ---
@@ -19,6 +17,8 @@ class: center, middle
 * ジャバ
 * 今すぐ
 * ダウンロード
+
+---
 
 # ジャバコード
 
