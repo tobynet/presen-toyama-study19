@@ -1,11 +1,11 @@
 
 class: center, middle
 
-# Title
+# テストジャバ
 
 ---
 
-# Agenda
+# アジャバ
 
 1. Introduction
 2. Deep-dive
@@ -13,4 +13,13 @@ class: center, middle
 
 ---
 
-# Introduction
+# ジャバダクション
+
+* あなたと
+* ジャバ
+* 今すぐ
+* ダウンロード
+
+# ジャバコード
+
+    git clone --depth 1 http://example.com/git
