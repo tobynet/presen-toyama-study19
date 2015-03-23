@@ -17,6 +17,9 @@ by [@toby_net](https://twitter.com/toby_net)
 
 [![ジャバボタン](./images/dl_button.png)](https://github.com/arigato-java/JavaButton)
 
+[![ジャバボタン](./images/java-button-android.jpg)](https://github.com/arigato-java/JavaButton)
+
+> ジャバボタン、「無料Javaのダウンロード」と書かれたボタンを押すと、端末が「ジャバ」と音声でしゃべる 
 
 ---
 
