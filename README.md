@@ -6,18 +6,17 @@ by [@toby_net](https://twitter.com/toby_net)
 
 # スポンサー
 
-[秘密結社ジャバ組](https://github.com/arigato-java/)
-
-![秘密結社ジャバ組](./images/javagumi-logo.png)
+[![秘密結社ジャバ組](./images/javagumi-logo.png)](https://github.com/arigato-java/)
 
 ---
 
-ジャバボタン
+宣伝：
+
+ダウンロード今すぐ ⇒
+<http://www.amazon.co.jp/dp/B00FZID6BW>
 
 [![ジャバボタン](./images/dl_button.png)](https://github.com/arigato-java/JavaButton)
 
-今すぐダウンロード
-<http://www.amazon.co.jp/dp/B00FZID6BW>
 
 ---
 
