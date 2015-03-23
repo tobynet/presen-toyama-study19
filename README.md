@@ -8,13 +8,16 @@ by [@toby_net](https://twitter.com/toby_net)
 
 [秘密結社ジャバ組](https://github.com/arigato-java/)
 
-![秘密結社ジャバ組]()
+![秘密結社ジャバ組](./images/javagumi-logo.png)
 
 ---
 
-ジャバボタン 
+ジャバボタン
 
-[](https://github.com/arigato-java/JavaButton)
+[![ジャバボタン](./images/dl_button.png)](https://github.com/arigato-java/JavaButton)
+
+今すぐダウンロード
+<http://www.amazon.co.jp/dp/B00FZID6BW>
 
 ---
 
@@ -24,6 +27,7 @@ by [@toby_net](https://twitter.com/toby_net)
 2. `git blame`
 3. `git bisect`
 4. `git clone --depth 1 $URL`
+
 
 ---
 
@@ -40,7 +44,7 @@ by [@toby_net](https://twitter.com/toby_net)
 
 * [ドットインストール git入門 (全22回)](http://dotinstall.com/lessons/basic_git)
 * まずはこれ ⇒ [Pro git](http://git-scm.com/book/en/v2)
-* コマンドラインで使った後にみるととてもよい ⇒ [入門Git (http://www.amazon.co.jp/dp/4798023809/)
+* コマンドラインで使った後にみるととてもよい ⇒ [入門Git](http://www.amazon.co.jp/dp/4798023809/)
 
 ---
 
@@ -50,7 +54,7 @@ by [@toby_net](https://twitter.com/toby_net)
 
 * [ジャバ組](https://github.com/arigato-java/JavaButton)
 
-* リレー小説かいてます ⇒ [Relayr](http://relayr.herokuapp.com/)
-* 有志によるジャバ小説まとめ ⇒ [ジャバ名作劇場](http://arigato-java.esy.es/shosetsu.html)
+* リレー小説かいてます ⇒  [Relayr](http://relayr.herokuapp.com/)
+* 有志によるジャバ小説まとめ ⇒  [ジャバ名作劇場](http://arigato-java.esy.es/shosetsu.html)
 
 
