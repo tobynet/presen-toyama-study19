@@ -10,24 +10,18 @@ by [@toby_net](https://twitter.com/toby_net)
 
 ---
 
-宣伝：
+宣伝： ジャバボタン」
 
 ダウンロード今すぐ ⇒
 <http://www.amazon.co.jp/dp/B00FZID6BW>
 
-<p align="center" >
-  <a href="https://github.com/arigato-java/JavaButton">
-    <img src="./images/dl_button.png" width="60%" />
-  </a>
-</a>
-  
 <p align="center">
   <a href="https://github.com/arigato-java/JavaButton">
     <img src="./images/java-button-android.jpg" width="30%"/>
   </a>
 </p>
 
-> ジャバボタン、「無料Javaのダウンロード」と書かれたボタンを押すと、端末が「ジャバ」と音声でしゃべる 
+> 「無料Javaのダウンロード」と書かれたボタンを押すと、端末が「ジャバ」と音声でしゃべる 
 
 ---
 
