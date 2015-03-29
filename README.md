@@ -41,6 +41,14 @@ by [@toby_net](https://twitter.com/toby_net)
 1. お手軽につかうには？
 2. ブランチの扱い
 3. SVN との checkout の違い
+4. コマンドラインと他のGUIツールとの違い
+
+---
+
+## コマンドラインと他のGUIツールとの違い
+
+* Visual Studio 用対応表:
+https://msdn.microsoft.com/en-us/library/dd286572.aspx
 
 ---
 
